@@ -4,6 +4,7 @@
 
 ```java
 /*
+*   At RestController.
 *   Method 호출에 대한 Relation(링크)를 담아서 Resource<T>형으로 반환
 */
 
